@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: gomillerfo@gmail.com
 description: "记录所想"
 keyword: "史咪娜, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
-url: "https://kukuxi.github.io"              # your host, for absolute URL
+url: "https://www.gomiller.cn"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
